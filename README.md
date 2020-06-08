@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Lisensi
+```
+Silahkan Download Gratis, digunakan atau dimodifikasi atau dikembangkan dan didistribusikan untuk kegiatan DKM atau untuk referensi belajar dengan tidak diperjual belikan.
+```
